@@ -9,7 +9,6 @@ import { NavigationMenuDemo } from '@/components/navigation/NavigationBar';
 import { DropdownMenuDemo } from '@/components/navigation/DropdownMenu';
 import Image from 'next/image';
 import Link from 'next/link';
-import DocumentUpload from '@/components/documents/DocumentUpload';
 import { notebooks } from '@/data/notebook';
 
 
